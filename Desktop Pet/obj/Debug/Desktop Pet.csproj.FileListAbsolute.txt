@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\bin\Debug\Desktop Pet.exe.config
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\bin\Debug\Desktop Pet.exe
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\bin\Debug\Desktop Pet.pdb
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop Pet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop_Pet.Form1.resources
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop_Pet.Properties.Resources.resources
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop Pet.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop Pet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop Pet.exe
+C:\Users\User\source\repos\Desktop Pet\Desktop Pet\obj\Debug\Desktop Pet.pdb
